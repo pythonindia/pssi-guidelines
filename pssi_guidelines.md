@@ -26,9 +26,11 @@ Some notes about adding/editing guidelines.
 ## FAQ
 
    1. What does __"PSSI"__ stand for ?
+   
    The name __PSSI__ stands for the organization _Python Software Society of India_. It is a non-profit organization that manages annual __PyCon India__ conference and also other activities to promote Python programming language in India.
 
    1. Can you tell me something about the history and background of __PSSI__ ?
+   
    PyCon India started in 2009 as a result of efforts by Noufal Ibrahim and a team of dedicated volunteers.
    In order to create an umbrella society for managing funds for PyCon India, the late Kenneth Gonsalves
    registered __Indian Python Software Society (IPSS)__ in 2010 in Ooty, Tamilnadu.
@@ -39,11 +41,13 @@ Some notes about adding/editing guidelines.
    Thus, PSSI was registered in Bangalore in 2013 as the new society for managing affairs related to PyCon India.
 
    1. How do I become a member of the PSSI ?
+   
    In order to become a lifetime member of the PSSI you need to satisfy the following.
       * You need to be an Indian citizen.
       * Pay a once lifetime membership fee of INR 600/- to register yourself as a member.
 
    1. What are the benefits of being a PSSI member ?
+   
       1. Be able to attend the Annual General Meeting (AGM) every year and make your voice heard in
       making the society policies and in the conduct and organization of PyCon India conference.
       1. Be able to stand for elections to the PSSI board and influence changes from a position
@@ -53,6 +57,7 @@ Some notes about adding/editing guidelines.
       part of PSSI allows you to make your voice heard and be a prominent part of this influence.
 
    1. Is PSSI related to PSF (Python Software Foundation) in any way ?
+   
    PSSI is not directly connected to PSF in any organizational or hierarchical manner. However PSSI can
    be thought of as a counterpart of PSF globally in an Indian context. What PSF aims to do in terms
    of providing a direction and being the single organisational body for the Python programming language
@@ -68,6 +73,7 @@ Some notes about adding/editing guidelines.
    conduct of the board members of PSSI.
 
    1. What are the board positions of PSSI ?
+   
    The board positions of PSSI to which annual elections are held every year include,
 
       1. President.
@@ -77,6 +83,7 @@ Some notes about adding/editing guidelines.
       1. Joint-Secretary (?)
 
    1. When is the AGM of PSSI held ?
+   
    The AGM (Annual General Meeting) of PSSI is held every year on the last day of PyCon India conference
    in the same venue. The last AGM was held in Sep 1 2013 at NIMHANS Convention Centre, Bangalore.
 
